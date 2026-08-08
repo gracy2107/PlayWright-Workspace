@@ -4,7 +4,7 @@
   await page.locator("input[nam='q']").fill("smart"); // search text
 
   //get all the suggested options --> control+shift=p on DOM --> emulate focused page
-
+//testing commit
    const options:locator=page.locator("ul>li");
    const count= await options.count();
    console.log("number of suggested options", count);//8
