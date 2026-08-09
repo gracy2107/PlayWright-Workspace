@@ -18,4 +18,7 @@ test('test', async ({ page }) => {
   });
   await page.getByRole('button', { name: 'Simple Alert' }).click();
   await page.getByLabel('Country:').selectOption('canada');
+
+
+  
 });
