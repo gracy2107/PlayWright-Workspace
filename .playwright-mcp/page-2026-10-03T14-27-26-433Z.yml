@@ -1,0 +1,301 @@
+- generic [ref=e2]:
+  - region "Notifications (F8)":
+    - list
+  - generic [ref=e3]:
+    - banner [ref=e4]:
+      - banner [ref=e5]:
+        - generic [ref=e6]:
+          - generic [ref=e7]:
+            - link "Alpha Product Under Development Lokachakra" [ref=e8] [cursor=pointer]:
+              - /url: /
+              - generic [ref=e9]: Alpha Product Under Development
+              - generic [ref=e13]: Lokachakra
+            - navigation [ref=e14]:
+              - link "Home" [ref=e15] [cursor=pointer]:
+                - /url: /
+              - button "Help & Info" [ref=e16] [cursor=pointer]
+          - generic [ref=e19]:
+            - link "Login" [ref=e20] [cursor=pointer]:
+              - /url: /login
+            - button "Toggle theme" [ref=e21] [cursor=pointer]
+    - main [ref=e23]:
+      - generic [ref=e24]:
+        - generic [ref=e25]:
+          - generic [ref=e27]:
+            - 'link "Exciting News: Launching Lokachakra Digital Incubator / Accelerator and CXO advisory" [ref=e31] [cursor=pointer]':
+              - /url: /news-update/1nKt11LKf7xiukxd9XKl
+            - 'link "Exciting News: Launching Lokachakra Digital Incubator / Accelerator and CXO advisory" [ref=e34] [cursor=pointer]':
+              - /url: /news-update/1nKt11LKf7xiukxd9XKl
+          - generic [ref=e37] [cursor=pointer]:
+            - generic [ref=e41]:
+              - heading [level=1] [ref=e42]:
+                - text: Lokachakra — A Decentralized
+                - generic [ref=e43]: Ecosystem
+              - paragraph [ref=e45]: Empowering entrepreneurs, researchers, corporates, students, and gig workers to engage in open innovation, collaborate across domains, and grow through incentivized participation.
+              - link "Join the Alpha Launch Waitlist" [ref=e46]:
+                - /url: /ecosystem
+            - generic [ref=e50]:
+              - heading "Lokachakra’s Ecosystem That Transforms Students" [level=2] [ref=e51]
+              - paragraph
+              - generic [ref=e52]:
+                - generic [ref=e53]:
+                  - heading "Struggles" [level=3] [ref=e57]
+                  - paragraph [ref=e58]: Students struggle to shift from academia to jobs due to limited exposure, guidance, and network.
+                - generic [ref=e59]:
+                  - heading "How Lokachakra Helps" [level=3] [ref=e65]
+                  - paragraph [ref=e66]: Lokachakra links students with mentors and companies to explore careers, gain experience, and build confidence.
+                - generic [ref=e67]:
+                  - heading "Our Vision" [level=3] [ref=e70]
+                  - paragraph [ref=e71]: Empowering students to bridge education and industry.
+              - link "Join the Alpha Launch Waitlist" [ref=e72]:
+                - /url: /ecosystem
+            - generic [ref=e76]:
+              - heading "Lokachakra’s Ecosystem That Transforms Founders" [level=2] [ref=e77]
+              - paragraph
+              - generic [ref=e78]:
+                - generic [ref=e79]:
+                  - heading "Struggles" [level=3] [ref=e83]
+                  - paragraph [ref=e84]: Founders face hurdles in funding, hiring talent, and scaling, with limited access to investors.
+                - generic [ref=e85]:
+                  - heading "How Lokachakra Helps" [level=3] [ref=e91]
+                  - paragraph [ref=e92]: Offers tailored access to investors, mentors, executives, and expert services like tech, legal, and accounting—saving time and accelerating growth.
+                - generic [ref=e93]:
+                  - heading "Our Vision" [level=3] [ref=e96]
+                  - paragraph [ref=e97]: To act as co-pilot for founders.
+              - link "Join the Alpha Launch Waitlist" [ref=e98]:
+                - /url: /ecosystem
+            - generic [ref=e102]:
+              - heading "Lokachakra’s Ecosystem That Transforms Investors" [level=2] [ref=e103]
+              - paragraph
+              - generic [ref=e104]:
+                - generic [ref=e105]:
+                  - heading "Struggles" [level=3] [ref=e109]
+                  - paragraph [ref=e110]: Investors struggle to source, evaluate, and manage startups effectively, relying on limited networks and manual processes.
+                - generic [ref=e111]:
+                  - heading "How Lokachakra Helps" [level=3] [ref=e117]
+                  - paragraph [ref=e118]: Simplifies discovery by linking investors with vetted startups, SMEs for due diligence, executives for scaling, and exit planners.
+                - generic [ref=e119]:
+                  - heading "Our Vision" [level=3] [ref=e122]
+                  - paragraph [ref=e123]: To be the most efficient platform for intelligent capital deployment.
+              - link "Join the Alpha Launch Waitlist" [ref=e124]:
+                - /url: /ecosystem
+            - generic [ref=e128]:
+              - heading "Lokachakra’s Ecosystem That Transforms Accelerators and Incubators" [level=2] [ref=e129]
+              - paragraph
+              - generic [ref=e130]:
+                - generic [ref=e131]:
+                  - heading "Struggles" [level=3] [ref=e135]
+                  - paragraph [ref=e136]: Difficulty in offering comprehensive support—sourcing mentors, investor networks, and specialized legal or advisory services.
+                - generic [ref=e137]:
+                  - heading "How Lokachakra Helps" [level=3] [ref=e143]
+                  - paragraph [ref=e144]: Links them to global SMEs, mentors, and investors, enhancing startup programs with stronger resources and greater impact.
+                - generic [ref=e145]:
+                  - heading "Our Vision" [level=3] [ref=e148]
+                  - paragraph [ref=e149]: To strengthen accelerators as global launchpads.
+              - link "Join the Alpha Launch Waitlist" [ref=e150]:
+                - /url: /ecosystem
+            - generic [ref=e154]:
+              - heading "Lokachakra’s Ecosystem That Transforms Executives" [level=2] [ref=e155]
+              - paragraph
+              - generic [ref=e156]:
+                - generic [ref=e157]:
+                  - heading "Struggles" [level=3] [ref=e161]
+                  - paragraph [ref=e162]: Executives struggle to find advisory roles, board positions, or mentorship opportunities beyond personal connections.
+                - generic [ref=e163]:
+                  - heading "How Lokachakra Helps" [level=3] [ref=e169]
+                  - paragraph [ref=e170]: Creates direct access to founders, investors, and companies needing expertise.
+                - generic [ref=e171]:
+                  - heading "Our Vision" [level=3] [ref=e174]
+                  - paragraph [ref=e175]: A platform for executives to expand influence, share expertise, and shape future enterprises.
+              - link "Join the Alpha Launch Waitlist" [ref=e176]:
+                - /url: /ecosystem
+            - generic [ref=e180]:
+              - heading "Lokachakra’s Ecosystem That Transforms Legal, Regulatory, Audit, Compliance" [level=2] [ref=e181]
+              - paragraph
+              - generic [ref=e182]:
+                - generic [ref=e183]:
+                  - heading "Struggles" [level=3] [ref=e187]
+                  - paragraph [ref=e188]: Professionals face limited reach, difficulty finding projects, and challenges engaging decision-makers directly.
+                - generic [ref=e189]:
+                  - heading "How Lokachakra Helps" [level=3] [ref=e195]
+                  - paragraph [ref=e196]: Connects them with founders, investors, and executives needing compliance, audit, and due diligence support.
+                - generic [ref=e197]:
+                  - heading "Our Vision" [level=3] [ref=e200]
+                  - paragraph [ref=e201]: A global marketplace for trusted expertise, driving legal and compliance impact in innovation.
+              - link "Join the Alpha Launch Waitlist" [ref=e202]:
+                - /url: /ecosystem
+            - generic [ref=e206]:
+              - heading "Lokachakra’s Ecosystem That Transforms Authorities, Bodies, Institutions, Government" [level=2] [ref=e207]
+              - paragraph
+              - generic [ref=e208]:
+                - generic [ref=e209]:
+                  - heading "Struggles" [level=3] [ref=e213]
+                  - paragraph [ref=e214]: Institutions face delays and limited access when collaborating with innovators, startups, and researchers.
+                - generic [ref=e215]:
+                  - heading "How Lokachakra Helps" [level=3] [ref=e221]
+                  - paragraph [ref=e222]: Bridges collaboration by connecting regulators with experts, founders, and investors for real-time insights.
+                - generic [ref=e223]:
+                  - heading "Our Vision" [level=3] [ref=e226]
+                  - paragraph [ref=e227]: To be the bridge between policy and practice.
+              - link "Join the Alpha Launch Waitlist" [ref=e228]:
+                - /url: /ecosystem
+            - generic [ref=e232]:
+              - heading "Lokachakra’s Ecosystem That Transforms IT & Cybersecurity, Corporate e-Systems, APIs" [level=2] [ref=e233]
+              - paragraph
+              - generic [ref=e234]:
+                - generic [ref=e235]:
+                  - heading "Struggles" [level=3] [ref=e239]
+                  - paragraph [ref=e240]: Tech professionals struggle to find niche roles, project work, or recognition on traditional platforms.
+                - generic [ref=e241]:
+                  - heading "How Lokachakra Helps" [level=3] [ref=e247]
+                  - paragraph [ref=e248]: Enables IT and cybersecurity experts to connect with founders, executives, and peers for projects or mentorship.
+                - generic [ref=e249]:
+                  - heading "Our Vision" [level=3] [ref=e252]
+                  - paragraph [ref=e253]: To be the hub where digital architects grow, innovate, and secure the future of technology globally.
+              - link "Join the Alpha Launch Waitlist" [ref=e254]:
+                - /url: /ecosystem
+            - generic [ref=e258]:
+              - heading "Lokachakra’s Ecosystem That Transforms Talent Engagement, Freelancing, Gig Work" [level=2] [ref=e259]
+              - paragraph
+              - generic [ref=e260]:
+                - generic [ref=e261]:
+                  - heading "Struggles" [level=3] [ref=e265]
+                  - paragraph [ref=e266]: Talent professionals struggle with scattered platforms, inconsistent sourcing, and unqualified candidates slowing hiring.
+                - generic [ref=e267]:
+                  - heading "How Lokachakra Helps" [level=3] [ref=e273]
+                  - paragraph [ref=e274]: Unifies full-time, freelance, and project-based hiring across industries into one efficient platform.
+                - generic [ref=e275]:
+                  - heading "Our Vision" [level=3] [ref=e278]
+                  - paragraph [ref=e279]: To redefine talent engagement by becoming the go-to place where organizations find the right talent, fast.
+              - link "Join the Alpha Launch Waitlist" [ref=e280]:
+                - /url: /ecosystem
+            - generic [ref=e284]:
+              - heading "Lokachakra’s Ecosystem That Transforms SMEs, Experts, Mentors, Researchers" [level=2] [ref=e285]
+              - paragraph
+              - generic [ref=e286]:
+                - generic [ref=e287]:
+                  - heading "Struggles" [level=3] [ref=e291]
+                  - paragraph [ref=e292]: Experts struggle to monetize skills, expand reach, or find global opportunities.
+                - generic [ref=e293]:
+                  - heading "How Lokachakra Helps" [level=3] [ref=e299]
+                  - paragraph [ref=e300]: Empowers them to showcase expertise, access consulting gigs, research collaborations, and mentorship roles worldwide.
+                - generic [ref=e301]:
+                  - heading "Our Vision" [level=3] [ref=e304]
+                  - paragraph [ref=e305]: Unlock expertise as a borderless on-demand asset where SMEs and mentors fuel growth and innovation.
+              - link "Join the Alpha Launch Waitlist" [ref=e306]:
+                - /url: /ecosystem
+            - generic [ref=e310]:
+              - heading "Lokachakra’s Ecosystem That Transforms Exit Planners, M&A, and Buyers/Sellers" [level=2] [ref=e311]
+              - paragraph
+              - generic [ref=e312]:
+                - generic [ref=e313]:
+                  - heading "Struggles" [level=3] [ref=e317]
+                  - paragraph [ref=e318]: M&A professionals face limited deal flow, reliance on closed networks, and incomplete transaction teams.
+                - generic [ref=e319]:
+                  - heading "How Lokachakra Helps" [level=3] [ref=e325]
+                  - paragraph [ref=e326]: Connects them with founders seeking exits, investors looking to acquire, and experts to close deals.
+                - generic [ref=e327]:
+                  - heading "Our Vision" [level=3] [ref=e330]
+                  - paragraph [ref=e331]: A trusted platform for corporate transactions—streamlining buying, selling, and restructuring.
+              - link "Join the Alpha Launch Waitlist" [ref=e332]:
+                - /url: /ecosystem
+        - generic [ref=e347]:
+          - generic [ref=e348]:
+            - heading "About Lokachakra" [level=2] [ref=e349]
+            - paragraph [ref=e350]: A manifesto for decentralized innovation and collaborative growth
+          - button "Play video" [ref=e353] [cursor=pointer]:
+            - img "Video thumbnail" [ref=e354]
+          - generic [ref=e359]:
+            - generic [ref=e360]:
+              - heading "Story / Genesis" [level=3] [ref=e367]
+              - paragraph [ref=e368]: "Lokachakra emerged from 16+ months of research to solve the fragmentation in innovation ecosystems. It began with a simple question: how can we enable inclusive collaboration with transparency and fair rewards? The result is a decentralized platform built on open innovation and shared growth, empowering individuals and organizations to collaborate, contribute, and succeed together."
+              - paragraph [ref=e369]: The result is a pioneering decentralized ecosystem built on principles of open innovation, collaborative growth, and distributed rewards — empowering all stakeholders from students to established organizations.
+            - generic [ref=e370]:
+              - heading "Pain Points We Address" [level=3] [ref=e377]
+              - list [ref=e378]:
+                - listitem [ref=e379]:
+                  - generic [ref=e380]: "1"
+                  - generic [ref=e381]: Fragmented and siloed innovation across organizations and domains
+                - listitem [ref=e382]:
+                  - generic [ref=e383]: "2"
+                  - generic [ref=e384]: Lack of transparent and fair incentive systems for collaboration
+                - listitem [ref=e385]:
+                  - generic [ref=e386]: "3"
+                  - generic [ref=e387]: Limited access to resources and opportunities for early-stage innovators
+                - listitem [ref=e388]:
+                  - generic [ref=e389]: "4"
+                  - generic [ref=e390]: Trust gaps and credibility challenges among potential collaborators
+                - listitem [ref=e391]:
+                  - generic [ref=e392]: "5"
+                  - generic [ref=e393]: Inefficient sharing of knowledge, skills, and resources
+          - generic [ref=e394]:
+            - heading "Vision & Mission" [level=3] [ref=e402]
+            - paragraph [ref=e403]: Our vision is to build a globally accessible, decentralized ecosystem where innovation flourishes through transparent, trust-driven collaboration. Lokachakra’s mission is to bridge the gaps between industries, academia, and entrepreneurs by creating a unified framework that encourages participation, enables seamless collaboration, and fairly rewards meaningful contributions
+          - generic [ref=e404]:
+            - generic [ref=e405]:
+              - heading "Open Innovation" [level=3] [ref=e409]
+              - paragraph [ref=e410]: Breaking down silos to foster collaborative knowledge creation and sharing
+            - generic [ref=e411]:
+              - heading "Decentralization" [level=3] [ref=e415]
+              - paragraph [ref=e416]: Distributing decision-making power across all participants in the ecosystem
+            - generic [ref=e417]:
+              - heading "Incentivization" [level=3] [ref=e423]
+              - paragraph [ref=e424]: Rewarding contributions proportionally to their impact on the ecosystem
+            - generic [ref=e425]:
+              - heading "Inclusivity" [level=3] [ref=e432]
+              - paragraph [ref=e433]: Ensuring all stakeholders can participate regardless of background or resources
+            - generic [ref=e434]:
+              - heading "Interoperability" [level=3] [ref=e438]
+              - paragraph [ref=e439]: Building systems that seamlessly connect with existing tools and platforms
+    - contentinfo [ref=e440]:
+      - contentinfo [ref=e441]:
+        - generic [ref=e442]:
+          - generic [ref=e443]:
+            - generic [ref=e444]:
+              - link "L Lokachakra" [ref=e445] [cursor=pointer]:
+                - /url: /
+                - generic [ref=e446]: L
+                - generic [ref=e449]: Lokachakra
+              - paragraph [ref=e450]: A pioneering decentralized ecosystem for open innovation & growth, fostering collaboration across domains.
+            - generic [ref=e451]:
+              - heading "Ecosystem" [level=3] [ref=e452]
+              - list [ref=e453]:
+                - listitem [ref=e454]:
+                  - link "About" [ref=e455] [cursor=pointer]:
+                    - /url: /about
+                - listitem [ref=e456]:
+                  - link "Join the Alpha Launch Waitlist" [ref=e457] [cursor=pointer]:
+                    - /url: /ecosystem
+                - listitem [ref=e458]:
+                  - link "COE/Incubation" [ref=e459] [cursor=pointer]:
+                    - /url: /center-of-excellence
+                - listitem [ref=e460]:
+                  - link "Return To Work" [ref=e461] [cursor=pointer]:
+                    - /url: /return-to-work
+                - listitem [ref=e462]:
+                  - link "Hackathon" [ref=e463] [cursor=pointer]:
+                    - /url: /hackathon
+                - listitem [ref=e464]:
+                  - link "Internship" [ref=e465] [cursor=pointer]:
+                    - /url: /internship
+            - generic [ref=e466]:
+              - heading "Technology" [level=3] [ref=e467]
+              - list [ref=e468]:
+                - listitem [ref=e469]:
+                  - link "Lokachain Blockchain" [ref=e470] [cursor=pointer]:
+                    - /url: /lokachain
+            - generic [ref=e471]:
+              - heading "Resources" [level=3] [ref=e472]
+              - list [ref=e473]:
+                - listitem [ref=e474]:
+                  - link "Terms of Service" [ref=e475] [cursor=pointer]:
+                    - /url: /terms-of-service
+                - listitem [ref=e476]:
+                  - link "Privacy Policy" [ref=e477] [cursor=pointer]:
+                    - /url: /privacy-policy
+                - listitem [ref=e478]:
+                  - link "Contact" [ref=e479] [cursor=pointer]:
+                    - /url: /contact
+          - generic [ref=e480]:
+            - paragraph [ref=e481]: © 2026 Lokachakra. All rights reserved.
+            - paragraph [ref=e482]: Backed by 16+ months of R&D and real-world validation

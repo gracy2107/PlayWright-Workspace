@@ -1,0 +1,323 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic [ref=e4]:
+        - generic [ref=e5]:
+          - link "Lokachakra Alpha Product Under Development" [ref=e6] [cursor=pointer]:
+            - /url: /
+            - generic [ref=e7]: Lokachakra
+            - generic [ref=e8]: Alpha Product Under Development
+          - navigation [ref=e12]:
+            - link "Home" [ref=e13] [cursor=pointer]:
+              - /url: /
+            - button "Launchpad" [ref=e14] [cursor=pointer]
+            - button "Events" [ref=e17] [cursor=pointer]
+            - button "Services" [ref=e20] [cursor=pointer]
+            - button "Products" [ref=e23] [cursor=pointer]
+            - button "Help & Info" [ref=e26] [cursor=pointer]
+        - generic [ref=e29]:
+          - link "Login" [ref=e30] [cursor=pointer]:
+            - /url: /login
+          - button "Toggle theme" [ref=e31] [cursor=pointer]
+    - main [ref=e33]:
+      - generic [ref=e34]:
+        - generic [ref=e36]:
+          - generic [ref=e37]:
+            - link "Global Incubator & Accelerator" [ref=e38] [cursor=pointer]:
+              - /url: /global-incubator-accelerator
+            - heading "LOKACHAKRA A DECENTRALIZED ECOSYSTEM" [level=1] [ref=e48]
+            - paragraph [ref=e49]: Empowering entrepreneurs, researchers, corporates, students, and gig workers to engage in open innovation, collaborate across domains, and grow through incentivized participation.
+            - generic [ref=e51]:
+              - generic [ref=e52]:
+                - generic [ref=e53]: Active Programs & Acceleration Tracks
+                - generic [ref=e57]: Hover to pause • Click arrows to navigate
+              - generic [ref=e58]:
+                - button "Scroll Left" [ref=e59] [cursor=pointer]
+                - generic [ref=e62]:
+                  - link [ref=e63] [cursor=pointer]:
+                    - /url: /events/lokachakra-global-digital-incubator
+                    - generic [ref=e71]:
+                      - heading "Lokachakra Global Digital Incubator" [level=4] [ref=e72]
+                      - paragraph [ref=e73]: Digital Incubation & Mentorship
+                  - link [ref=e77] [cursor=pointer]:
+                    - /url: /events/lokachakra-global-digital-accelerator
+                    - generic [ref=e85]:
+                      - heading "Lokachakra Global Digital Accelerator" [level=4] [ref=e86]
+                      - paragraph [ref=e87]: Scaleup & Investor Pipeline
+                  - link [ref=e91] [cursor=pointer]:
+                    - /url: /events/cxo-assurance-and-audit
+                    - generic [ref=e99]:
+                      - heading "CXO Assurance & Executive Audit Track" [level=4] [ref=e100]
+                      - paragraph [ref=e101]: Executive 1-on-1 Advisory
+                  - link [ref=e105] [cursor=pointer]:
+                    - /url: /events/dont-wait-for-the-cohort-become-cohort-ready
+                    - generic [ref=e113]:
+                      - heading "Cohort Readiness & Founder Track" [level=4] [ref=e114]
+                      - paragraph [ref=e115]: Pre-Acceleration Preparation
+                  - link [ref=e119] [cursor=pointer]:
+                    - /url: /events/lokachakra-global-digital-incubator
+                    - generic [ref=e127]:
+                      - heading "Lokachakra Global Digital Incubator" [level=4] [ref=e128]
+                      - paragraph [ref=e129]: Digital Incubation & Mentorship
+                  - link [ref=e133] [cursor=pointer]:
+                    - /url: /events/lokachakra-global-digital-accelerator
+                    - generic [ref=e141]:
+                      - heading "Lokachakra Global Digital Accelerator" [level=4] [ref=e142]
+                      - paragraph [ref=e143]: Scaleup & Investor Pipeline
+                  - link [ref=e147] [cursor=pointer]:
+                    - /url: /events/cxo-assurance-and-audit
+                    - generic [ref=e155]:
+                      - heading "CXO Assurance & Executive Audit Track" [level=4] [ref=e156]
+                      - paragraph [ref=e157]: Executive 1-on-1 Advisory
+                  - link [ref=e161] [cursor=pointer]:
+                    - /url: /events/dont-wait-for-the-cohort-become-cohort-ready
+                    - generic [ref=e169]:
+                      - heading "Cohort Readiness & Founder Track" [level=4] [ref=e170]
+                      - paragraph [ref=e171]: Pre-Acceleration Preparation
+                  - link [ref=e175] [cursor=pointer]:
+                    - /url: /events/lokachakra-global-digital-incubator
+                    - generic [ref=e183]:
+                      - heading "Lokachakra Global Digital Incubator" [level=4] [ref=e184]
+                      - paragraph [ref=e185]: Digital Incubation & Mentorship
+                  - link [ref=e189] [cursor=pointer]:
+                    - /url: /events/lokachakra-global-digital-accelerator
+                    - generic [ref=e197]:
+                      - heading "Lokachakra Global Digital Accelerator" [level=4] [ref=e198]
+                      - paragraph [ref=e199]: Scaleup & Investor Pipeline
+                  - link [ref=e203] [cursor=pointer]:
+                    - /url: /events/cxo-assurance-and-audit
+                    - generic [ref=e211]:
+                      - heading "CXO Assurance & Executive Audit Track" [level=4] [ref=e212]
+                      - paragraph [ref=e213]: Executive 1-on-1 Advisory
+                  - link [ref=e217] [cursor=pointer]:
+                    - /url: /events/dont-wait-for-the-cohort-become-cohort-ready
+                    - generic [ref=e225]:
+                      - heading "Cohort Readiness & Founder Track" [level=4] [ref=e226]
+                      - paragraph [ref=e227]: Pre-Acceleration Preparation
+                  - link [ref=e231] [cursor=pointer]:
+                    - /url: /events/lokachakra-global-digital-incubator
+                    - generic [ref=e239]:
+                      - heading "Lokachakra Global Digital Incubator" [level=4] [ref=e240]
+                      - paragraph [ref=e241]: Digital Incubation & Mentorship
+                  - link [ref=e245] [cursor=pointer]:
+                    - /url: /events/lokachakra-global-digital-accelerator
+                    - generic [ref=e253]:
+                      - heading "Lokachakra Global Digital Accelerator" [level=4] [ref=e254]
+                      - paragraph [ref=e255]: Scaleup & Investor Pipeline
+                  - link [ref=e259] [cursor=pointer]:
+                    - /url: /events/cxo-assurance-and-audit
+                    - generic [ref=e267]:
+                      - heading "CXO Assurance & Executive Audit Track" [level=4] [ref=e268]
+                      - paragraph [ref=e269]: Executive 1-on-1 Advisory
+                  - link [ref=e273] [cursor=pointer]:
+                    - /url: /events/dont-wait-for-the-cohort-become-cohort-ready
+                    - generic [ref=e281]:
+                      - heading "Cohort Readiness & Founder Track" [level=4] [ref=e282]
+                      - paragraph [ref=e283]: Pre-Acceleration Preparation
+                - button "Scroll Right" [ref=e287] [cursor=pointer]
+          - img "Global collaboration handshake" [ref=e291]
+        - generic [ref=e296]:
+          - generic [ref=e297]:
+            - heading "Lokachakra Categories" [level=2] [ref=e298]
+            - paragraph [ref=e299]: Lokachakra's Ecosystem That Transforms Students
+          - generic [ref=e300]:
+            - button "Students" [ref=e301] [cursor=pointer]
+            - button "Founders / CO-Founders" [ref=e302] [cursor=pointer]
+            - button "Investors" [ref=e303] [cursor=pointer]
+            - button "Accelerators & Incubators" [ref=e304] [cursor=pointer]
+            - button "Executives" [ref=e305] [cursor=pointer]
+            - button "Legal / Regulatory" [ref=e306] [cursor=pointer]
+            - button "Authorities" [ref=e307] [cursor=pointer]
+            - button "IT & Cybersecurity" [ref=e308] [cursor=pointer]
+            - button "Talent Engagement" [ref=e309] [cursor=pointer]
+            - button "SMEs / Experts" [ref=e310] [cursor=pointer]
+            - button "Exit Planner" [ref=e311] [cursor=pointer]
+          - generic [ref=e312]:
+            - generic [ref=e313]:
+              - generic [ref=e318]:
+                - heading "Struggles" [level=3] [ref=e327]
+                - paragraph [ref=e328]: Students struggle to shift from academia to jobs due to limited exposure, guidance, and network.
+              - generic [ref=e329]:
+                - heading "How Lokachakra Helps" [level=3] [ref=e335]
+                - paragraph [ref=e336]: Lokachakra links students with mentors and companies to explore careers, gain experience, and build confidence.
+              - generic [ref=e337]:
+                - heading "Our Vision" [level=3] [ref=e347]
+                - paragraph [ref=e348]: Empowering students to bridge education and industry.
+            - link "Apply for Incubator Program" [ref=e350] [cursor=pointer]:
+              - /url: /events/lokachakra-global-digital-accelerator
+        - generic [ref=e355]:
+          - generic [ref=e356]:
+            - heading "About Lokachakra" [level=2] [ref=e357]
+            - paragraph [ref=e358]: A manifesto for decentralized innovation and collaborative growth
+          - generic [ref=e359]:
+            - img "About Lokachakra Illustration" [ref=e362]
+            - generic [ref=e363]:
+              - heading "Lokachakra is Best Ecosystem Platform" [level=3] [ref=e364]
+              - generic [ref=e365]:
+                - paragraph [ref=e366]: At Lokachakra, we understand that life sometimes calls for a pause — whether for personal growth, health, family, entrepreneurship, or exploration. But stepping back doesn’t mean you’re out. This drive empowers experienced professionals to transition into high-impact, future-tech roles within our decentralized innovation ecosystem.
+                - paragraph [ref=e367]: Our ecosystem breaks down traditional siloes. Students gain verified work experience, startups access top-tier talent on-demand, and executives find new avenues for strategic advisory. We weave trust, verification, and incentivization into every interaction, ensuring equitable growth for all participants.
+              - link "Read More" [ref=e369] [cursor=pointer]:
+                - /url: /about
+        - generic [ref=e374]:
+          - generic [ref=e375]:
+            - heading "Ecosystem Video & Story" [level=2] [ref=e376]
+            - paragraph [ref=e377]: Learn how we connect users and partners globally in a trustless environment.
+          - generic [ref=e378]:
+            - generic [ref=e379]:
+              - generic [ref=e380]:
+                - generic [ref=e381]: "01"
+                - paragraph [ref=e382]: Select your custom referral code to begin onboarding.
+              - generic [ref=e383]:
+                - generic [ref=e384]: "02"
+                - paragraph [ref=e385]: Verify identity credentials securely via LokaChain.
+              - generic [ref=e386]:
+                - generic [ref=e387]: "03"
+                - paragraph [ref=e388]: Build your trust metrics through active participation.
+            - img "Ecosystem Video Preview" [ref=e391] [cursor=pointer]
+            - generic [ref=e392]:
+              - generic [ref=e393]:
+                - generic [ref=e394]: "04"
+                - paragraph [ref=e395]: Match with startup projects fitting your skill profile.
+              - generic [ref=e396]:
+                - generic [ref=e397]: "05"
+                - paragraph [ref=e398]: Receive automated payouts in ArthaChain trust points.
+              - generic [ref=e399]:
+                - generic [ref=e400]: "06"
+                - paragraph [ref=e401]: Onboard as executive leader or scale startup ventures.
+          - generic [ref=e402]:
+            - heading "Story / Genesis" [level=3] [ref=e403]
+            - paragraph [ref=e404]: "Lokachakra emerged from years of intensive research exploring system models for open innovation. The core pain point identified was the fragmentation of networks: students had no access to verified startup jobs, startups could not find reliable gig-workers, and executives were isolated from founders. We built a double-layered platform to link them under secure, verifiable trust structures."
+        - generic [ref=e409]:
+          - generic [ref=e410]:
+            - heading "Our Vision & Mission" [level=2] [ref=e411]
+            - paragraph [ref=e412]: We aim to establish a borderless marketplace where skill value is verified and rewarded.
+          - generic [ref=e413]:
+            - generic [ref=e414]:
+              - heading "Interoperability" [level=4] [ref=e419]
+              - paragraph [ref=e420]: Plugs seamlessly with enterprise systems, APIs, and credentials.
+            - generic [ref=e421]:
+              - heading "Decentralization" [level=4] [ref=e425]
+              - paragraph [ref=e426]: No central point of failure. Governed by rules, not entities.
+            - generic [ref=e427]:
+              - heading "Incentivization" [level=4] [ref=e433]
+              - paragraph [ref=e434]: Fosters active community involvement through on-chain rewards.
+            - generic [ref=e435]:
+              - heading "Inclusivity" [level=4] [ref=e442]
+              - paragraph [ref=e443]: Open to everyone, from academic students to global exit planners.
+            - generic [ref=e444]:
+              - heading "Transparency" [level=4] [ref=e449]
+              - paragraph [ref=e450]: LokaChain registers immutable, auditable trust records for all.
+        - generic [ref=e455]:
+          - generic [ref=e456]:
+            - heading "Who Can Join" [level=2] [ref=e457]
+            - paragraph [ref=e458]: Lokachakra's Ecosystem That Transforms Students
+          - generic [ref=e459]:
+            - generic [ref=e460] [cursor=pointer]: Professionals returning after a career break
+            - generic [ref=e461] [cursor=pointer]: Tech & business experts seeking reskilling
+            - generic [ref=e462] [cursor=pointer]: Mid/senior-level practitioners ready for hands-on roles
+            - generic [ref=e463] [cursor=pointer]: Passionate contributors in tech, product, or strategy
+        - generic [ref=e468]:
+          - generic [ref=e469]:
+            - heading "Frequently Asked Questions" [level=2] [ref=e470]
+            - paragraph [ref=e471]: Lokachakra's Ecosystem That Transforms Students
+          - generic [ref=e472]:
+            - img "FAQ Illustration" [ref=e474]
+            - generic [ref=e475]:
+              - generic [ref=e476]:
+                - button "Who is this platform designed for? ×" [ref=e477] [cursor=pointer]:
+                  - generic [ref=e478]: Who is this platform designed for?
+                  - generic [ref=e479]: ×
+                - generic [ref=e480]: "Lokachakra is designed for a diverse range of participants: students seeking real-world exposure, founders looking to scale their ventures, investors scouting vetted opportunities, and experts/executives aiming to share knowledge and advisory services."
+              - button "What is LokaChain and ArthaChain? +" [ref=e482] [cursor=pointer]:
+                - generic [ref=e483]: What is LokaChain and ArthaChain?
+                - generic [ref=e484]: +
+              - button "How do incentivized contribution models work? +" [ref=e486] [cursor=pointer]:
+                - generic [ref=e487]: How do incentivized contribution models work?
+                - generic [ref=e488]: +
+              - button "Are the jobs and internship posts verified? +" [ref=e490] [cursor=pointer]:
+                - generic [ref=e491]: Are the jobs and internship posts verified?
+                - generic [ref=e492]: +
+              - button "Can I join as both a mentor and an investor? +" [ref=e494] [cursor=pointer]:
+                - generic [ref=e495]: Can I join as both a mentor and an investor?
+                - generic [ref=e496]: +
+        - generic [ref=e501]:
+          - generic [ref=e502]:
+            - heading "Testimonial" [level=2] [ref=e503]
+            - paragraph [ref=e504]: See What Our Clients And Users Have To Say About Their Experience With Us.
+          - generic [ref=e505]:
+            - generic [ref=e506]:
+              - img "Chames Jhone Avatar" [ref=e508]
+              - heading "Chames Jhone" [level=4] [ref=e509]
+              - paragraph [ref=e510]: “Lorem Ipsum is simply dummy text of the printing and typesetting industry. Ipsum has been the industry's standard dummy text ever since the Lorem Ipsum is simply dummy text of the printing and typesetting industry. has been the industry's standard dummy text ever since the 1500s, Lorem Ipsum”
+            - generic [ref=e512]:
+              - img "Chames Jhone Avatar" [ref=e514]
+              - heading "Chames Jhone" [level=4] [ref=e515]
+              - paragraph [ref=e516]: “Lorem Ipsum is simply dummy text of the printing and typesetting industry. Ipsum has been the industry's standard dummy text ever since the Lorem Ipsum is simply dummy text of the printing and typesetting industry. has been the industry's standard dummy text ever since the 1500s, Lorem Ipsum”
+          - generic [ref=e517]:
+            - generic [ref=e518] [cursor=pointer]
+            - generic [ref=e519] [cursor=pointer]
+            - generic [ref=e520] [cursor=pointer]
+    - contentinfo [ref=e521]:
+      - generic [ref=e522]:
+        - generic [ref=e523]:
+          - generic [ref=e524]:
+            - text: LOKACHAKRA
+            - paragraph [ref=e525]: A pioneering decentralized ecosystem for open innovation and growth. Fostering trust-driven collaboration, verified profiles, and automated smart registries globally.
+          - generic [ref=e526]:
+            - heading "Launchpad" [level=5] [ref=e527]
+            - list [ref=e528]:
+              - listitem [ref=e529]:
+                - link "Return To Work" [ref=e530] [cursor=pointer]:
+                  - /url: /return-to-work
+              - listitem [ref=e531]:
+                - link "COE / Incubation" [ref=e532] [cursor=pointer]:
+                  - /url: /center-of-excellence
+              - listitem [ref=e533]:
+                - link "TLA Program" [ref=e534] [cursor=pointer]:
+                  - /url: /tech-leadership-accelerator
+              - listitem [ref=e535]:
+                - link "Hackathons" [ref=e536] [cursor=pointer]:
+                  - /url: /hackathon
+          - generic [ref=e537]:
+            - heading "Services" [level=5] [ref=e538]
+            - list [ref=e539]:
+              - listitem [ref=e540]:
+                - link "Ecosystem" [ref=e541] [cursor=pointer]:
+                  - /url: /ecosystem
+              - listitem [ref=e542]:
+                - link "LokaChain Layer" [ref=e543] [cursor=pointer]:
+                  - /url: /lokachain
+              - listitem [ref=e544]:
+                - link "Job Opportunities" [ref=e545] [cursor=pointer]:
+                  - /url: /partner-opportunities
+              - listitem [ref=e546]:
+                - link "RFP Bids" [ref=e547] [cursor=pointer]:
+                  - /url: /rfp-bids
+          - generic [ref=e548]:
+            - heading "Company" [level=5] [ref=e549]
+            - list [ref=e550]:
+              - listitem [ref=e551]:
+                - link "About Us" [ref=e552] [cursor=pointer]:
+                  - /url: /about
+              - listitem [ref=e553]:
+                - link "News & Updates" [ref=e554] [cursor=pointer]:
+                  - /url: /news-update
+              - listitem [ref=e555]:
+                - link "Contact Support" [ref=e556] [cursor=pointer]:
+                  - /url: /contact
+              - listitem [ref=e557]:
+                - link "Feedback Form" [ref=e558] [cursor=pointer]:
+                  - /url: /feedback
+        - generic [ref=e559]:
+          - generic [ref=e560]: © 2026 Lokachakra. All rights reserved.
+          - generic [ref=e561]:
+            - link "Terms of Service" [ref=e562] [cursor=pointer]:
+              - /url: /terms-of-service
+            - link "Privacy Policy" [ref=e563] [cursor=pointer]:
+              - /url: /privacy-policy
+  - region "Notifications (F8)":
+    - list
+  - region "Notifications alt+T"
+  - button "Report Technical Problem Bug Icon Report Technical Problem" [ref=e565] [cursor=pointer]:
+    - img "Report Technical Problem Bug Icon" [ref=e568]
+    - generic [ref=e569]: Report Technical Problem

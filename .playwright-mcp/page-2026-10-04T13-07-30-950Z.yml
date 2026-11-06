@@ -1,0 +1,510 @@
+- generic:
+  - generic [aria-hidden]:
+    - banner:
+      - generic:
+        - generic:
+          - link:
+            - /url: /
+            - generic: Lokachakra
+            - generic: Alpha Product Under Development
+          - navigation:
+            - link:
+              - /url: /
+              - text: Home
+            - button: Launchpad
+            - button: Events
+            - button [expanded]: Services
+            - button: Products
+            - button: Help & Info
+        - generic:
+          - link:
+            - /url: /login
+            - text: Login
+          - button:
+            - generic: Toggle theme
+    - main:
+      - generic:
+        - generic:
+          - generic:
+            - generic:
+              - link:
+                - /url: /global-incubator-accelerator
+                - generic: Global Incubator & Accelerator
+              - heading [level=1]: LOKACHAKRA A DECENTRALIZED ECOSYSTEM
+              - paragraph: Empowering entrepreneurs, researchers, corporates, students, and gig workers to engage in open innovation, collaborate across domains, and grow through incentivized participation.
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: Active Programs & Acceleration Tracks
+                    - generic: Hover to pause • Click arrows to navigate
+                  - generic:
+                    - button
+                    - generic:
+                      - link:
+                        - /url: /events/testing123456789
+                        - generic:
+                          - generic:
+                            - heading [level=4]: testing123456789
+                            - paragraph: dfvfvdfv
+                      - link:
+                        - /url: /events/test2345
+                        - generic:
+                          - generic:
+                            - heading [level=4]: test2345
+                            - paragraph: nifrvjhbtobtth
+                      - link:
+                        - /url: /events/future-leadership-program-2026
+                        - generic:
+                          - generic:
+                            - heading [level=4]: Global Executive Future Leadership Program 2026
+                            - paragraph: Executive Leadership & Tech Innovation
+                      - link:
+                        - /url: /events/cxo-leadership-executive-network
+                        - generic:
+                          - generic:
+                            - heading [level=4]: CXO Leadership & Executive Network Program
+                            - paragraph: C-Suite Executive Dialogues & Enterprise Mentorship
+                      - link:
+                        - /url: /events/startup-innovation-acceleration
+                        - generic:
+                          - generic:
+                            - heading [level=4]: Startup Innovation & Acceleration Program
+                            - paragraph: Startup Incubation & DeepTech Venture Sprints
+                      - link:
+                        - /url: /events/dont-wait-for-the-cohort-become-cohort-ready
+                        - generic:
+                          - generic:
+                            - heading [level=4]: Dont wait for the cohort become cohort ready
+                            - paragraph: Dont wait for the cohort become cohort ready -Global pre launch program
+                      - link:
+                        - /url: /events/lokachakra-global-digital-accelerator
+                        - generic:
+                          - generic:
+                            - heading [level=4]: Lokachakra Global Digital Accelerator
+                            - paragraph: Growth-Stage Startup Acceleration
+                      - link:
+                        - /url: /events/lokachakra-global-digital-incubator
+                        - generic:
+                          - generic:
+                            - heading [level=4]: Lokachakra Global Digital Incubator
+                            - paragraph: Early-Stage Startup Incubation
+                      - link:
+                        - /url: /events/CXO Assurance & Audit
+                        - generic:
+                          - generic:
+                            - heading [level=4]: CXO Assurance & Audit
+                            - paragraph: before you launch your product you will get assurance and audit
+                      - link:
+                        - /url: /events/testing123456789
+                        - generic:
+                          - generic:
+                            - heading [level=4]: testing123456789
+                            - paragraph: dfvfvdfv
+                      - link:
+                        - /url: /events/test2345
+                        - generic:
+                          - generic:
+                            - heading [level=4]: test2345
+                            - paragraph: nifrvjhbtobtth
+                      - link:
+                        - /url: /events/future-leadership-program-2026
+                        - generic:
+                          - generic:
+                            - heading [level=4]: Global Executive Future Leadership Program 2026
+                            - paragraph: Executive Leadership & Tech Innovation
+                      - link:
+                        - /url: /events/cxo-leadership-executive-network
+                        - generic:
+                          - generic:
+                            - heading [level=4]: CXO Leadership & Executive Network Program
+                            - paragraph: C-Suite Executive Dialogues & Enterprise Mentorship
+                      - link:
+                        - /url: /events/startup-innovation-acceleration
+                        - generic:
+                          - generic:
+                            - heading [level=4]: Startup Innovation & Acceleration Program
+                            - paragraph: Startup Incubation & DeepTech Venture Sprints
+                      - link:
+                        - /url: /events/dont-wait-for-the-cohort-become-cohort-ready
+                        - generic:
+                          - generic:
+                            - heading [level=4]: Dont wait for the cohort become cohort ready
+                            - paragraph: Dont wait for the cohort become cohort ready -Global pre launch program
+                      - link:
+                        - /url: /events/lokachakra-global-digital-accelerator
+                        - generic:
+                          - generic:
+                            - heading [level=4]: Lokachakra Global Digital Accelerator
+                            - paragraph: Growth-Stage Startup Acceleration
+                      - link:
+                        - /url: /events/lokachakra-global-digital-incubator
+                        - generic:
+                          - generic:
+                            - heading [level=4]: Lokachakra Global Digital Incubator
+                            - paragraph: Early-Stage Startup Incubation
+                      - link:
+                        - /url: /events/CXO Assurance & Audit
+                        - generic:
+                          - generic:
+                            - heading [level=4]: CXO Assurance & Audit
+                            - paragraph: before you launch your product you will get assurance and audit
+                      - link:
+                        - /url: /events/testing123456789
+                        - generic:
+                          - generic:
+                            - heading [level=4]: testing123456789
+                            - paragraph: dfvfvdfv
+                      - link:
+                        - /url: /events/test2345
+                        - generic:
+                          - generic:
+                            - heading [level=4]: test2345
+                            - paragraph: nifrvjhbtobtth
+                      - link:
+                        - /url: /events/future-leadership-program-2026
+                        - generic:
+                          - generic:
+                            - heading [level=4]: Global Executive Future Leadership Program 2026
+                            - paragraph: Executive Leadership & Tech Innovation
+                      - link:
+                        - /url: /events/cxo-leadership-executive-network
+                        - generic:
+                          - generic:
+                            - heading [level=4]: CXO Leadership & Executive Network Program
+                            - paragraph: C-Suite Executive Dialogues & Enterprise Mentorship
+                      - link:
+                        - /url: /events/startup-innovation-acceleration
+                        - generic:
+                          - generic:
+                            - heading [level=4]: Startup Innovation & Acceleration Program
+                            - paragraph: Startup Incubation & DeepTech Venture Sprints
+                      - link:
+                        - /url: /events/dont-wait-for-the-cohort-become-cohort-ready
+                        - generic:
+                          - generic:
+                            - heading [level=4]: Dont wait for the cohort become cohort ready
+                            - paragraph: Dont wait for the cohort become cohort ready -Global pre launch program
+                      - link:
+                        - /url: /events/lokachakra-global-digital-accelerator
+                        - generic:
+                          - generic:
+                            - heading [level=4]: Lokachakra Global Digital Accelerator
+                            - paragraph: Growth-Stage Startup Acceleration
+                      - link:
+                        - /url: /events/lokachakra-global-digital-incubator
+                        - generic:
+                          - generic:
+                            - heading [level=4]: Lokachakra Global Digital Incubator
+                            - paragraph: Early-Stage Startup Incubation
+                      - link:
+                        - /url: /events/CXO Assurance & Audit
+                        - generic:
+                          - generic:
+                            - heading [level=4]: CXO Assurance & Audit
+                            - paragraph: before you launch your product you will get assurance and audit
+                      - link:
+                        - /url: /events/testing123456789
+                        - generic:
+                          - generic:
+                            - heading [level=4]: testing123456789
+                            - paragraph: dfvfvdfv
+                      - link:
+                        - /url: /events/test2345
+                        - generic:
+                          - generic:
+                            - heading [level=4]: test2345
+                            - paragraph: nifrvjhbtobtth
+                      - link:
+                        - /url: /events/future-leadership-program-2026
+                        - generic:
+                          - generic:
+                            - heading [level=4]: Global Executive Future Leadership Program 2026
+                            - paragraph: Executive Leadership & Tech Innovation
+                      - link:
+                        - /url: /events/cxo-leadership-executive-network
+                        - generic:
+                          - generic:
+                            - heading [level=4]: CXO Leadership & Executive Network Program
+                            - paragraph: C-Suite Executive Dialogues & Enterprise Mentorship
+                      - link:
+                        - /url: /events/startup-innovation-acceleration
+                        - generic:
+                          - generic:
+                            - heading [level=4]: Startup Innovation & Acceleration Program
+                            - paragraph: Startup Incubation & DeepTech Venture Sprints
+                      - link:
+                        - /url: /events/dont-wait-for-the-cohort-become-cohort-ready
+                        - generic:
+                          - generic:
+                            - heading [level=4]: Dont wait for the cohort become cohort ready
+                            - paragraph: Dont wait for the cohort become cohort ready -Global pre launch program
+                      - link:
+                        - /url: /events/lokachakra-global-digital-accelerator
+                        - generic:
+                          - generic:
+                            - heading [level=4]: Lokachakra Global Digital Accelerator
+                            - paragraph: Growth-Stage Startup Acceleration
+                      - link:
+                        - /url: /events/lokachakra-global-digital-incubator
+                        - generic:
+                          - generic:
+                            - heading [level=4]: Lokachakra Global Digital Incubator
+                            - paragraph: Early-Stage Startup Incubation
+                      - link:
+                        - /url: /events/CXO Assurance & Audit
+                        - generic:
+                          - generic:
+                            - heading [level=4]: CXO Assurance & Audit
+                            - paragraph: before you launch your product you will get assurance and audit
+                    - button
+        - generic:
+          - generic:
+            - generic:
+              - heading [level=2]: Lokachakra Categories
+              - paragraph: Lokachakra's Ecosystem That Transforms Students
+            - generic:
+              - button: Students
+              - button: Founders / CO-Founders
+              - button: Investors
+              - button: Accelerators & Incubators
+              - button: Executives
+              - button: Legal / Regulatory
+              - button: Authorities
+              - button: IT & Cybersecurity
+              - button: Talent Engagement
+              - button: SMEs / Experts
+              - button: Exit Planner
+            - generic:
+              - generic:
+                - generic:
+                  - heading [level=3]: Struggles
+                  - paragraph: Students struggle to shift from academia to jobs due to limited exposure, guidance, and network.
+                - generic:
+                  - heading [level=3]: How Lokachakra Helps
+                  - paragraph: Lokachakra links students with mentors and companies to explore careers, gain experience, and build confidence.
+                - generic:
+                  - heading [level=3]: Our Vision
+                  - paragraph: Empowering students to bridge education and industry.
+              - generic:
+                - link:
+                  - /url: /events/lokachakra-global-digital-accelerator
+                  - text: Apply for Incubator Program
+        - generic:
+          - generic:
+            - generic:
+              - heading [level=2]: About Lokachakra
+              - paragraph: A manifesto for decentralized innovation and collaborative growth
+            - generic:
+              - generic:
+                - heading [level=3]: Lokachakra is Best Ecosystem Platform
+                - generic:
+                  - paragraph: At Lokachakra, we understand that life sometimes calls for a pause — whether for personal growth, health, family, entrepreneurship, or exploration. But stepping back doesn’t mean you’re out. This drive empowers experienced professionals to transition into high-impact, future-tech roles within our decentralized innovation ecosystem.
+                  - paragraph: Our ecosystem breaks down traditional siloes. Students gain verified work experience, startups access top-tier talent on-demand, and executives find new avenues for strategic advisory. We weave trust, verification, and incentivization into every interaction, ensuring equitable growth for all participants.
+                - generic:
+                  - link:
+                    - /url: /about
+                    - text: Read More
+        - generic:
+          - generic:
+            - generic:
+              - heading [level=2]: Ecosystem Video & Story
+              - paragraph: Learn how we connect users and partners globally in a trustless environment.
+            - generic:
+              - generic:
+                - generic:
+                  - generic: "01"
+                  - paragraph: Select your custom referral code to begin onboarding.
+                - generic:
+                  - generic: "02"
+                  - paragraph: Verify identity credentials securely via LokaChain.
+                - generic:
+                  - generic: "03"
+                  - paragraph: Build your trust metrics through active participation.
+              - generic:
+                - generic:
+                  - generic: "04"
+                  - paragraph: Match with startup projects fitting your skill profile.
+                - generic:
+                  - generic: "05"
+                  - paragraph: Receive automated payouts in ArthaChain trust points.
+                - generic:
+                  - generic: "06"
+                  - paragraph: Onboard as executive leader or scale startup ventures.
+            - generic:
+              - heading [level=3]: Story / Genesis
+              - paragraph: "Lokachakra emerged from years of intensive research exploring system models for open innovation. The core pain point identified was the fragmentation of networks: students had no access to verified startup jobs, startups could not find reliable gig-workers, and executives were isolated from founders. We built a double-layered platform to link them under secure, verifiable trust structures."
+        - generic:
+          - generic:
+            - generic:
+              - heading [level=2]: Our Vision & Mission
+              - paragraph: We aim to establish a borderless marketplace where skill value is verified and rewarded.
+            - generic:
+              - generic:
+                - heading [level=4]: Interoperability
+                - paragraph: Plugs seamlessly with enterprise systems, APIs, and credentials.
+              - generic:
+                - heading [level=4]: Decentralization
+                - paragraph: No central point of failure. Governed by rules, not entities.
+              - generic:
+                - heading [level=4]: Incentivization
+                - paragraph: Fosters active community involvement through on-chain rewards.
+              - generic:
+                - heading [level=4]: Inclusivity
+                - paragraph: Open to everyone, from academic students to global exit planners.
+              - generic:
+                - heading [level=4]: Transparency
+                - paragraph: LokaChain registers immutable, auditable trust records for all.
+        - generic:
+          - generic:
+            - generic:
+              - heading [level=2]: Who Can Join
+              - paragraph: Lokachakra's Ecosystem That Transforms Students
+            - generic:
+              - generic: Professionals returning after a career break
+              - generic: Tech & business experts seeking reskilling
+              - generic: Mid/senior-level practitioners ready for hands-on roles
+              - generic: Passionate contributors in tech, product, or strategy
+        - generic:
+          - generic:
+            - generic:
+              - heading [level=2]: Frequently Asked Questions
+              - paragraph: Lokachakra's Ecosystem That Transforms Students
+            - generic:
+              - generic:
+                - generic:
+                  - button:
+                    - generic: Who is this platform designed for?
+                    - generic: ×
+                  - generic: "Lokachakra is designed for a diverse range of participants: students seeking real-world exposure, founders looking to scale their ventures, investors scouting vetted opportunities, and experts/executives aiming to share knowledge and advisory services."
+                - generic:
+                  - button:
+                    - generic: What is LokaChain and ArthaChain?
+                    - generic: +
+                - generic:
+                  - button:
+                    - generic: How do incentivized contribution models work?
+                    - generic: +
+                - generic:
+                  - button:
+                    - generic: Are the jobs and internship posts verified?
+                    - generic: +
+                - generic:
+                  - button:
+                    - generic: Can I join as both a mentor and an investor?
+                    - generic: +
+        - generic:
+          - generic:
+            - generic:
+              - heading [level=2]: Testimonial
+              - paragraph: See What Our Clients And Users Have To Say About Their Experience With Us.
+            - generic:
+              - generic:
+                - heading [level=4]: Chames Jhone
+                - paragraph: “Lorem Ipsum is simply dummy text of the printing and typesetting industry. Ipsum has been the industry's standard dummy text ever since the Lorem Ipsum is simply dummy text of the printing and typesetting industry. has been the industry's standard dummy text ever since the 1500s, Lorem Ipsum”
+              - generic:
+                - heading [level=4]: Chames Jhone
+                - paragraph: “Lorem Ipsum is simply dummy text of the printing and typesetting industry. Ipsum has been the industry's standard dummy text ever since the Lorem Ipsum is simply dummy text of the printing and typesetting industry. has been the industry's standard dummy text ever since the 1500s, Lorem Ipsum”
+    - contentinfo:
+      - generic:
+        - generic:
+          - generic:
+            - text: LOKACHAKRA
+            - paragraph: A pioneering decentralized ecosystem for open innovation and growth. Fostering trust-driven collaboration, verified profiles, and automated smart registries globally.
+          - generic:
+            - heading [level=5]: Launchpad
+            - list:
+              - listitem:
+                - link:
+                  - /url: /return-to-work
+                  - text: Return To Work
+              - listitem:
+                - link:
+                  - /url: /center-of-excellence
+                  - text: COE / Incubation
+              - listitem:
+                - link:
+                  - /url: /tech-leadership-accelerator
+                  - text: TLA Program
+              - listitem:
+                - link:
+                  - /url: /hackathon
+                  - text: Hackathons
+          - generic:
+            - heading [level=5]: Services
+            - list:
+              - listitem:
+                - link:
+                  - /url: /ecosystem
+                  - text: Ecosystem
+              - listitem:
+                - link:
+                  - /url: /lokachain
+                  - text: LokaChain Layer
+              - listitem:
+                - link:
+                  - /url: /partner-opportunities
+                  - text: Job Opportunities
+              - listitem:
+                - link:
+                  - /url: /rfp-bids
+                  - text: RFP Bids
+          - generic:
+            - heading [level=5]: Company
+            - list:
+              - listitem:
+                - link:
+                  - /url: /about
+                  - text: About Us
+              - listitem:
+                - link:
+                  - /url: /news-update
+                  - text: News & Updates
+              - listitem:
+                - link:
+                  - /url: /contact
+                  - text: Contact Support
+              - listitem:
+                - link:
+                  - /url: /feedback
+                  - text: Feedback Form
+        - generic:
+          - generic: © 2026 Lokachakra. All rights reserved.
+          - generic:
+            - link:
+              - /url: /terms-of-service
+              - text: Terms of Service
+            - link:
+              - /url: /privacy-policy
+              - text: Privacy Policy
+  - list
+  - region "Notifications alt+T"
+  - generic [aria-hidden]:
+    - button:
+      - generic: Report Technical Problem
+  - alert
+  - menu "Services" [active] [ref=e1075]:
+    - menuitem "Managed Open Project SaaS, white label, and self-hosted deployments for managed open-source projects." [ref=e1076] [cursor=pointer]:
+      - generic [ref=e1083]:
+        - generic [ref=e1084]: Managed Open Project
+        - generic [ref=e1085]: SaaS, white label, and self-hosted deployments for managed open-source projects.
+    - menuitem "Managed GitHub Runners High-speed ephemeral runners, white-label CI/CD pools, and secure self-hosted execution nodes." [ref=e1086] [cursor=pointer]:
+      - generic [ref=e1091]:
+        - generic [ref=e1092]: Managed GitHub Runners
+        - generic [ref=e1093]: High-speed ephemeral runners, white-label CI/CD pools, and secure self-hosted execution nodes.
+    - menuitem "Infrastructure Self Hosting on Demand Automated bare-metal provisioning, elastic hybrid clusters, and sovereign cloud infrastructure." [ref=e1094] [cursor=pointer]:
+      - generic [ref=e1099]:
+        - generic [ref=e1100]: Infrastructure Self Hosting on Demand
+        - generic [ref=e1101]: Automated bare-metal provisioning, elastic hybrid clusters, and sovereign cloud infrastructure.
+    - menuitem "DevSecOps Automated CI/CD security guardrails, vulnerability remediation, and continuous compliance as code." [ref=e1102] [cursor=pointer]:
+      - generic [ref=e1107]:
+        - generic [ref=e1108]: DevSecOps
+        - generic [ref=e1109]: Automated CI/CD security guardrails, vulnerability remediation, and continuous compliance as code.
+    - menuitem "LokaChain Dedicated blockchain nodes, enterprise tokenization suites, and custom smart contract networks." [ref=e1110] [cursor=pointer]:
+      - generic [ref=e1116]:
+        - generic [ref=e1117]: LokaChain
+        - generic [ref=e1118]: Dedicated blockchain nodes, enterprise tokenization suites, and custom smart contract networks.
+    - separator [ref=e1119]
+    - menuitem "Ecosystem" [ref=e1120] [cursor=pointer]
+    - menuitem "Partner Career Opportunities" [ref=e1127] [cursor=pointer]
+    - menuitem "Post a Job" [ref=e1132] [cursor=pointer]
+    - menuitem "RFP Bids" [ref=e1136] [cursor=pointer]

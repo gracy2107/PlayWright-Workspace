@@ -1,0 +1,26 @@
+- generic [ref=e2]:
+  - region "Notifications (F8)":
+    - list
+  - generic [ref=e484]:
+    - generic [ref=e485]:
+      - heading "Login" [level=1] [ref=e486]
+      - paragraph [ref=e490]: Sign in with your email.
+    - generic [ref=e491]:
+      - generic [ref=e492]:
+        - text: Email
+        - textbox "Email" [ref=e493]:
+          - /placeholder: you@example.com
+      - generic [ref=e494]:
+        - generic [ref=e495]:
+          - generic [ref=e496]: Password
+          - link "Forgot password?" [ref=e497] [cursor=pointer]:
+            - /url: /forgot-password
+        - generic [ref=e498]:
+          - textbox "Password" [ref=e499]:
+            - /placeholder: ••••••••
+          - button "Show password" [ref=e500] [cursor=pointer]
+      - button "Sign in with email" [ref=e502] [cursor=pointer]
+    - paragraph [ref=e503]:
+      - text: Don't have an account?
+      - link "Sign up" [ref=e504] [cursor=pointer]:
+        - /url: /signup

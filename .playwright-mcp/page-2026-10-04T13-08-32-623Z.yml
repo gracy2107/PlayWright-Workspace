@@ -1,0 +1,266 @@
+- generic:
+  - generic [aria-hidden]:
+    - banner:
+      - generic:
+        - generic:
+          - link:
+            - /url: /
+            - generic: Lokachakra
+            - generic: Alpha Product Under Development
+          - navigation:
+            - link:
+              - /url: /
+              - text: Home
+            - button: Launchpad
+            - button: Events
+            - button: Services
+            - button: Products
+            - button: Help & Info
+        - generic:
+          - link:
+            - /url: /login
+            - text: Login
+          - button:
+            - generic: Toggle theme
+    - main:
+      - generic:
+        - generic:
+          - generic:
+            - generic:
+              - heading [level=1]: RFP-Bid Service Request
+              - paragraph: Submit your RFP-Bid service request. Our team will review and get back to you.
+              - generic:
+                - button: Join the alpha launch waitlist
+        - generic:
+          - generic:
+            - generic:
+              - heading [level=2]: Service Request Form
+              - paragraph: Fill in the details below to submit your service request
+            - generic:
+              - generic:
+                - generic:
+                  - heading [level=3]: Basic Information
+                  - paragraph: Please provide your contact details and company information.
+                - generic:
+                  - generic:
+                    - text: Name of the Person *
+                    - textbox:
+                      - /placeholder: John Doe
+                  - generic:
+                    - text: Company Name *
+                    - textbox:
+                      - /placeholder: Acme Corporation
+                  - generic:
+                    - text: Registration Number
+                    - textbox:
+                      - /placeholder: Optional
+                    - paragraph: Optional company registration number
+                  - generic:
+                    - text: Email *
+                    - textbox:
+                      - /placeholder: john@company.com
+                  - generic:
+                    - text: Contact Number *
+                    - textbox:
+                      - /placeholder: +1 (555) 123-4567
+                    - paragraph: Include country code
+                  - generic:
+                    - text: Notes
+                    - textbox:
+                      - /placeholder: Optional notes to help us understand your requirements.
+                    - paragraph: Optional notes to help us understand your requirements.
+              - generic:
+                - generic:
+                  - heading [level=3]: Select Service
+                  - paragraph: Choose the RFP-Bid service that best fits your needs.
+                - generic:
+                  - textbox:
+                    - /placeholder: Search Services...
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - heading [level=3]: RFP-Triage
+                      - generic: Free
+                    - generic:
+                      - paragraph: Free initial consultation to assess your RFP requirements
+                  - generic:
+                    - generic:
+                      - generic:
+                        - heading [level=3]: Discovery Phase
+                      - generic: Paid
+                    - generic:
+                      - paragraph: Comprehensive analysis and requirement gathering
+                  - generic:
+                    - generic:
+                      - generic:
+                        - heading [level=3]: Consultation (SME / Specialist)
+                      - generic: Paid
+                    - generic:
+                      - paragraph: Expert consultation in your chosen domain
+                  - generic:
+                    - generic:
+                      - generic:
+                        - heading [level=3]: Advisory
+                      - generic: Paid
+                    - generic:
+                      - paragraph: Strategic advisory services
+                  - generic:
+                    - generic:
+                      - generic:
+                        - heading [level=3]: Professional Services
+                      - generic: Paid
+                    - generic:
+                      - paragraph: Comprehensive professional service delivery
+                  - generic:
+                    - generic:
+                      - generic:
+                        - heading [level=3]: Other Product / Project / Operational Support
+                      - generic: Paid
+                    - generic:
+                      - paragraph: Operational and project support services
+                  - generic:
+                    - generic:
+                      - generic:
+                        - heading [level=3]: Misc / Others
+                      - generic: Paid
+                    - generic:
+                      - paragraph: Other services and custom requirements
+              - generic:
+                - generic:
+                  - heading [level=3]: Service Details
+                - generic:
+                  - generic:
+                    - text: Timezone *
+                    - combobox:
+                      - generic: America/New_York
+                    - combobox [aria-hidden]
+                    - paragraph: We’ll schedule the session based on this timezone
+                  - generic:
+                    - text: Select Date & Time (45-minute session) *
+                    - generic:
+                      - button: October 5th, 2026
+                      - combobox [expanded]:
+                        - generic: Select time slot
+                      - combobox [aria-hidden]
+                  - generic:
+                    - generic:
+                      - heading [level=3]: What to Expect
+                    - generic:
+                      - generic:
+                        - heading [level=4]: "What client should bring:"
+                        - list:
+                          - listitem: Your RFP document (if available)
+                          - listitem: Project requirements and objectives
+                          - listitem: Budget expectations
+                          - listitem: Timeline constraints
+                          - listitem: Any existing documentation or specifications
+                      - generic:
+                        - heading [level=4]: "Expected outcome:"
+                        - list:
+                          - listitem: Initial assessment of your RFP requirements
+                          - listitem: Recommendations on next steps
+                          - listitem: Understanding of scope and complexity
+                          - listitem: Guidance on whether Discovery Phase is needed
+                  - generic:
+                    - text: Additional Documents (Optional)
+                    - button
+                    - paragraph: Upload any relevant documents (PDF, DOC, DOCX, max 10MB each)
+              - generic:
+                - button: Reset
+                - button: Submit Request
+    - contentinfo:
+      - generic:
+        - generic:
+          - generic:
+            - text: LOKACHAKRA
+            - paragraph: A pioneering decentralized ecosystem for open innovation and growth. Fostering trust-driven collaboration, verified profiles, and automated smart registries globally.
+          - generic:
+            - heading [level=5]: Launchpad
+            - list:
+              - listitem:
+                - link:
+                  - /url: /return-to-work
+                  - text: Return To Work
+              - listitem:
+                - link:
+                  - /url: /center-of-excellence
+                  - text: COE / Incubation
+              - listitem:
+                - link:
+                  - /url: /tech-leadership-accelerator
+                  - text: TLA Program
+              - listitem:
+                - link:
+                  - /url: /hackathon
+                  - text: Hackathons
+          - generic:
+            - heading [level=5]: Services
+            - list:
+              - listitem:
+                - link:
+                  - /url: /ecosystem
+                  - text: Ecosystem
+              - listitem:
+                - link:
+                  - /url: /lokachain
+                  - text: LokaChain Layer
+              - listitem:
+                - link:
+                  - /url: /partner-opportunities
+                  - text: Job Opportunities
+              - listitem:
+                - link:
+                  - /url: /rfp-bids
+                  - text: RFP Bids
+          - generic:
+            - heading [level=5]: Company
+            - list:
+              - listitem:
+                - link:
+                  - /url: /about
+                  - text: About Us
+              - listitem:
+                - link:
+                  - /url: /news-update
+                  - text: News & Updates
+              - listitem:
+                - link:
+                  - /url: /contact
+                  - text: Contact Support
+              - listitem:
+                - link:
+                  - /url: /feedback
+                  - text: Feedback Form
+        - generic:
+          - generic: © 2026 Lokachakra. All rights reserved.
+          - generic:
+            - link:
+              - /url: /terms-of-service
+              - text: Terms of Service
+            - link:
+              - /url: /privacy-policy
+              - text: Privacy Policy
+  - list
+  - region "Notifications alt+T"
+  - generic [aria-hidden]:
+    - button:
+      - generic: Report Technical Problem
+  - alert: R FP Bi dP ag e | Lokachakra
+  - listbox [ref=e1396]:
+    - option "09:00" [active] [ref=e1397]
+    - option "09:45" [ref=e1400]
+    - option "10:00" [ref=e1403]
+    - option "10:45" [ref=e1406]
+    - option "11:00" [ref=e1409]
+    - option "11:45" [ref=e1412]
+    - option "12:00" [ref=e1415]
+    - option "12:45" [ref=e1418]
+    - option "13:00" [ref=e1421]
+    - option "13:45" [ref=e1424]
+    - option "14:00" [ref=e1427]
+    - option "14:45" [ref=e1430]
+    - option "15:00" [ref=e1433]
+    - option "15:45" [ref=e1436]
+    - option "16:00" [ref=e1439]
+    - option "16:45" [ref=e1442]

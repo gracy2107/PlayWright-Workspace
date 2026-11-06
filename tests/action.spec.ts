@@ -7,12 +7,12 @@ await expect(textBox).toBeVisible();
 await expect(textBox).toBeEnabled();
 const maxlenth: string|null= await textBox.getAttribute("maxlength"); //retrun the maximum lenth of atrribute
 expect(maxlenth).toBe('15'); // expect using value not need await expect using element need await
-textBox.fill("grace");
+textBox.fill("kaya");
 //console.log("inputvalue of the first name:",await textBox.inputValue());//returen input value of texbox
 const entervalue: string = await textBox.inputValue();
 console.log("Input Value of the FirstName :", entervalue); // returns th einput value of text box
 await page.waitForTimeout(60000);
-expect(entervalue).toBe("grace");
+expect(entervalue).toBe("kaya");
 
 await page.waitForTimeout(3000);
 }

@@ -1,0 +1,175 @@
+- generic [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic [ref=e4]:
+        - generic [ref=e5]:
+          - link "Lokachakra Alpha Product Under Development" [ref=e6] [cursor=pointer]:
+            - /url: /
+            - generic [ref=e7]: Lokachakra
+            - generic [ref=e8]: Alpha Product Under Development
+          - navigation [ref=e12]:
+            - link "Home" [ref=e13] [cursor=pointer]:
+              - /url: /
+            - button "Launchpad" [ref=e14] [cursor=pointer]
+            - button "Events" [ref=e17] [cursor=pointer]
+            - button "Services" [active] [ref=e20] [cursor=pointer]
+            - button "Products" [ref=e23] [cursor=pointer]
+            - button "Help & Info" [ref=e26] [cursor=pointer]
+        - generic [ref=e29]:
+          - link "Login" [ref=e30] [cursor=pointer]:
+            - /url: /login
+          - button "Toggle theme" [ref=e31] [cursor=pointer]
+    - main [ref=e33]:
+      - generic [ref=e1141]:
+        - generic [ref=e1143]:
+          - generic [ref=e1144]:
+            - heading "RFP-Bid Service Request" [level=1] [ref=e1145]
+            - paragraph [ref=e1146]: Submit your RFP-Bid service request. Our team will review and get back to you.
+            - button "Join the alpha launch waitlist" [ref=e1148] [cursor=pointer]
+          - img "RFP-Bid Illustration" [ref=e1150]
+        - generic [ref=e1155]:
+          - generic [ref=e1156]:
+            - heading "Service Request Form" [level=2] [ref=e1157]
+            - paragraph [ref=e1158]: Fill in the details below to submit your service request
+          - generic [ref=e1159]:
+            - generic [ref=e1160]:
+              - generic [ref=e1161]:
+                - heading "Basic Information" [level=3] [ref=e1162]
+                - paragraph [ref=e1163]: Please provide your contact details and company information.
+              - generic [ref=e1164]:
+                - generic [ref=e1165]:
+                  - text: Name of the Person *
+                  - textbox "Name of the Person *" [ref=e1166]:
+                    - /placeholder: John Doe
+                - generic [ref=e1167]:
+                  - text: Company Name *
+                  - textbox "Company Name *" [ref=e1168]:
+                    - /placeholder: Acme Corporation
+                - generic [ref=e1169]:
+                  - text: Registration Number
+                  - textbox "Registration Number" [ref=e1170]:
+                    - /placeholder: Optional
+                  - paragraph [ref=e1171]: Optional company registration number
+                - generic [ref=e1172]:
+                  - text: Email *
+                  - textbox "Email *" [ref=e1173]:
+                    - /placeholder: john@company.com
+                - generic [ref=e1174]:
+                  - text: Contact Number *
+                  - textbox "Contact Number *" [ref=e1175]:
+                    - /placeholder: +1 (555) 123-4567
+                  - paragraph [ref=e1176]: Include country code
+                - generic [ref=e1177]:
+                  - text: Notes
+                  - textbox "Notes" [ref=e1178]:
+                    - /placeholder: Optional notes to help us understand your requirements.
+                  - paragraph [ref=e1179]: Optional notes to help us understand your requirements.
+            - generic [ref=e1180]:
+              - generic [ref=e1181]:
+                - heading "Select Service" [level=3] [ref=e1182]
+                - paragraph [ref=e1183]: Choose the RFP-Bid service that best fits your needs.
+              - textbox "Search Services..." [ref=e1188]
+              - generic [ref=e1189]:
+                - generic [ref=e1190] [cursor=pointer]:
+                  - generic [ref=e1191]:
+                    - heading "RFP-Triage" [level=3] [ref=e1193]
+                    - generic [ref=e1194]: Free
+                  - paragraph [ref=e1197]: Free initial consultation to assess your RFP requirements
+                - generic [ref=e1198] [cursor=pointer]:
+                  - generic [ref=e1199]:
+                    - heading "Discovery Phase" [level=3] [ref=e1201]
+                    - generic [ref=e1202]: Paid
+                  - paragraph [ref=e1205]: Comprehensive analysis and requirement gathering
+                - generic [ref=e1206] [cursor=pointer]:
+                  - generic [ref=e1207]:
+                    - heading "Consultation (SME / Specialist)" [level=3] [ref=e1209]
+                    - generic [ref=e1210]: Paid
+                  - paragraph [ref=e1213]: Expert consultation in your chosen domain
+                - generic [ref=e1214] [cursor=pointer]:
+                  - generic [ref=e1215]:
+                    - heading "Advisory" [level=3] [ref=e1217]
+                    - generic [ref=e1218]: Paid
+                  - paragraph [ref=e1221]: Strategic advisory services
+                - generic [ref=e1222] [cursor=pointer]:
+                  - generic [ref=e1223]:
+                    - heading "Professional Services" [level=3] [ref=e1225]
+                    - generic [ref=e1226]: Paid
+                  - paragraph [ref=e1229]: Comprehensive professional service delivery
+                - generic [ref=e1230] [cursor=pointer]:
+                  - generic [ref=e1231]:
+                    - heading "Other Product / Project / Operational Support" [level=3] [ref=e1233]
+                    - generic [ref=e1234]: Paid
+                  - paragraph [ref=e1237]: Operational and project support services
+                - generic [ref=e1238] [cursor=pointer]:
+                  - generic [ref=e1239]:
+                    - heading "Misc / Others" [level=3] [ref=e1241]
+                    - generic [ref=e1242]: Paid
+                  - paragraph [ref=e1245]: Other services and custom requirements
+            - generic [ref=e1246]:
+              - button "Reset" [ref=e1247] [cursor=pointer]
+              - button "Submit Request" [ref=e1248] [cursor=pointer]
+    - contentinfo [ref=e521]:
+      - generic [ref=e522]:
+        - generic [ref=e523]:
+          - generic [ref=e524]:
+            - text: LOKACHAKRA
+            - paragraph [ref=e525]: A pioneering decentralized ecosystem for open innovation and growth. Fostering trust-driven collaboration, verified profiles, and automated smart registries globally.
+          - generic [ref=e526]:
+            - heading "Launchpad" [level=5] [ref=e527]
+            - list [ref=e528]:
+              - listitem [ref=e529]:
+                - link "Return To Work" [ref=e530] [cursor=pointer]:
+                  - /url: /return-to-work
+              - listitem [ref=e531]:
+                - link "COE / Incubation" [ref=e532] [cursor=pointer]:
+                  - /url: /center-of-excellence
+              - listitem [ref=e533]:
+                - link "TLA Program" [ref=e534] [cursor=pointer]:
+                  - /url: /tech-leadership-accelerator
+              - listitem [ref=e535]:
+                - link "Hackathons" [ref=e536] [cursor=pointer]:
+                  - /url: /hackathon
+          - generic [ref=e537]:
+            - heading "Services" [level=5] [ref=e538]
+            - list [ref=e539]:
+              - listitem [ref=e540]:
+                - link "Ecosystem" [ref=e541] [cursor=pointer]:
+                  - /url: /ecosystem
+              - listitem [ref=e542]:
+                - link "LokaChain Layer" [ref=e543] [cursor=pointer]:
+                  - /url: /lokachain
+              - listitem [ref=e544]:
+                - link "Job Opportunities" [ref=e545] [cursor=pointer]:
+                  - /url: /partner-opportunities
+              - listitem [ref=e546]:
+                - link "RFP Bids" [ref=e547] [cursor=pointer]:
+                  - /url: /rfp-bids
+          - generic [ref=e548]:
+            - heading "Company" [level=5] [ref=e549]
+            - list [ref=e550]:
+              - listitem [ref=e551]:
+                - link "About Us" [ref=e552] [cursor=pointer]:
+                  - /url: /about
+              - listitem [ref=e553]:
+                - link "News & Updates" [ref=e554] [cursor=pointer]:
+                  - /url: /news-update
+              - listitem [ref=e555]:
+                - link "Contact Support" [ref=e556] [cursor=pointer]:
+                  - /url: /contact
+              - listitem [ref=e557]:
+                - link "Feedback Form" [ref=e558] [cursor=pointer]:
+                  - /url: /feedback
+        - generic [ref=e559]:
+          - generic [ref=e560]: © 2026 Lokachakra. All rights reserved.
+          - generic [ref=e561]:
+            - link "Terms of Service" [ref=e562] [cursor=pointer]:
+              - /url: /terms-of-service
+            - link "Privacy Policy" [ref=e563] [cursor=pointer]:
+              - /url: /privacy-policy
+  - region "Notifications (F8)":
+    - list
+  - region "Notifications alt+T"
+  - button "Report Technical Problem Bug Icon Report Technical Problem" [ref=e565] [cursor=pointer]:
+    - img "Report Technical Problem Bug Icon" [ref=e568]
+    - generic [ref=e569]: Report Technical Problem
+  - alert [ref=e1074]: R FP Bi dP ag e | Lokachakra
