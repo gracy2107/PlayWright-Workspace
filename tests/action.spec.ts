@@ -6,7 +6,7 @@ const textBox:locator = page.locator('#name');
 await expect(textBox).toBeVisible();  
 await expect(textBox).toBeEnabled();
 const maxlenth: string|null= await textBox.getAttribute("maxlength"); //retrun the maximum lenth of atrribute
-expect(maxlenth).toBe('15'); // expect using value not need await expect using element need await
+expect(maxlenth).toBe('13'); // expect using value not need await expect using element need await
 textBox.fill("kaya");
 //console.log("inputvalue of the first name:",await textBox.inputValue());//returen input value of texbox
 const entervalue: string = await textBox.inputValue();
